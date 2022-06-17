@@ -1,0 +1,3 @@
+if using linux/mac can use below script
+
+rsync -av . nginx_html_location --exclude=.git
